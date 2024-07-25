@@ -20,7 +20,11 @@ example(num1)
 
 
 
+def helloworld(a):
+    a = input('enter any word')
+    print(a)
 
+helloworld('print')
 
 
 
